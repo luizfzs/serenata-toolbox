@@ -26,7 +26,9 @@ setup(
         'lxml>=3.6',
         'pandas>=0.18',
         'python-decouple>=3.1',
-        'tqdm'
+        'requests',
+        'tqdm',
+        'httpx'
     ],
     keywords='serenata de amor, data science, brazil, corruption',
     license='MIT',
